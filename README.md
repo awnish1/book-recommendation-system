@@ -25,4 +25,4 @@ A machine learning-based book recommendation system that suggests similar books 
 
 ## Live Demo
 
-🔗 https://your-app-name.streamlit.app
+🔗 https://book-recommendation-system-4kq8vltcmrcaurkspgehrq.streamlit.app/
