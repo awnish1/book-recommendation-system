@@ -22,3 +22,7 @@ A machine learning-based book recommendation system that suggests similar books 
 - Streamlit
 
 ---
+
+## Live Demo
+
+🔗 https://your-app-name.streamlit.app
